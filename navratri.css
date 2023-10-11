@@ -1,0 +1,262 @@
+nav {
+  height: 100px;
+  background-color: gray;
+  color: gold;
+  font-size: large;
+}
+.maindiv {
+  display: flex;
+}
+.logo {
+  display: flex;
+  margin-left: 100px;
+}
+#logo2 {
+  margin-top: -72px;
+}
+.link {
+  padding-top: 30px;
+  margin-left: 380px;
+}
+.link > a {
+  text-decoration: none;
+  color: gold;
+  margin-left: 10px;
+  font-size: x-large;
+}
+#welcomtag {
+  font-size: xxx-large;
+  font-family: "Satisfy", cursive;
+  display: flex;
+  margin-left: 293px;
+}
+span {
+  margin-top: 57px;
+}
+.content1 {
+  margin-left: 400px;
+}
+#heding {
+  margin-left: 245px;
+  margin-right: 300px;
+  /* background-color: bisque; */
+  text-align: center;
+  margin-top: 40px;
+  font-family: "Satisfy", cursive;
+  color: black;
+  font-size: 2.5rem;
+}
+.content3 {
+  /* background-color: brown; */
+  padding: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  /* text-align: center; */
+  font-size: 1.2rem;
+}
+#event_tag {
+  font-size: xxx-large;
+  font-family: "Satisfy", cursive;
+  margin-left: 540px;
+  margin-top: 30px;
+}
+
+.performer {
+  display: flex;
+  margin-left: 24px;
+  margin-top: 30px;
+  gap: 140px;
+}
+.performer1 {
+  display: flex;
+  margin-left: 80px;
+  margin-top: 50px;
+  gap: 80px;
+}
+#align {
+  margin-left: 81px;
+}
+#one {
+  margin-left: 81px;
+}
+#two {
+  margin-left: 81px;
+}
+#three {
+  margin-left: 81px;
+}
+#four {
+  margin-left: 81px;
+}
+#five {
+  margin-left: 81px;
+}
+#six {
+  margin-left: 81px;
+}
+#seven {
+  margin-left: 81px;
+}
+#eight {
+  margin-left: 81px;
+}
+
+img {
+  /* margin-left: 30px; */
+  border-radius: 90px;
+  /* margin-right: 80px; */
+  /* margin-top: 86px; */
+}
+/* .content_div {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.content_div > p {
+  background-color: rgb(194, 156, 229);
+} */
+.content2_div {
+  display: flex;
+  gap: 106px;
+  padding: 10px;
+  margin-left: 65px;
+  margin-right: 50px;
+  text-align: center;
+  /* background-color: rgba(147, 42, 42, 0.642); */
+}
+.content2_div > a {
+  text-decoration: none;
+}
+.content2_div > p {
+  background-color: rgb(194, 156, 229);
+  font-family: cursive;
+}
+.content3_div {
+  display: flex;
+  padding: 10px;
+  margin-left: 199px;
+  margin-right: 70px;
+  text-align: center;
+  gap: 196px;
+
+  /* background-color: rgba(227, 252, 3, 0.642); */
+}
+.content3_div > a {
+  text-decoration: none;
+}
+
+.content3_div > p {
+  background-color: rgb(234, 131, 131);
+}
+
+.content4_div {
+  display: flex;
+  padding: 10px;
+  margin-left: 369px;
+  margin-right: 90px;
+  margin-top: 20px;
+  text-align: center;
+  gap: 226px;
+  /* background-color: rgba(82, 112, 219, 0.642); */
+}
+.content4_div > p {
+  background-color: rgb(99, 96, 96);
+}
+.content4_div > a {
+  text-decoration: none;
+}
+img {
+  padding: 20px;
+  /* margin-left: 100px; */
+}
+#poster{
+  margin-left: 100px;
+}
+.parent_div {
+  margin-left: 20px;
+  padding-top: 50px;
+}
+#font {
+  /* color: white; */
+  font-family: cursive;
+}
+.name {
+  display: flex;
+  gap: 100px;
+  background-color: gray;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 30px;
+  padding: 36px;
+  font-size: large;
+  font-family: "Satisfy", cursive;
+  max-height: 200px;
+}
+.n_1_div {
+  display: flex;
+  margin-top: 50px;
+}
+.h_1 {
+  margin-left: 510px;
+  margin-top: 40px;
+  font-size: x-large;
+  font-family: "Satisfy", cursive;
+}
+.p_1 {
+  font-size: large;
+  /* font-family: "Satisfy", cursive; */
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#heding_1 {
+  font-size: x-large;
+  margin-top: 40px;
+  font-weight: bold;
+}
+.content_1 {
+  /* margin-top: 20px; */
+  margin-left: 30px;
+  margin-right: 30px;
+  /* text-align: center; */
+  font-size: 1.1rem;
+}
+.performer_1 {
+  display: flex;
+}
+.p_c_1 {
+  margin-top: 64px;
+  font-size: 1.1rem;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+#heding_2 {
+  font-size: x-large;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+.h_2 {
+  margin-left: 390px;
+  margin-top: 40px;
+  font-size: x-large;
+  font-family: "Satisfy", cursive;
+  font-weight: bold;
+}
+.them_1 {
+  display: flex;
+  margin-top: 100px;
+}
+.t_C_1 {
+  margin-top: 110px;
+  font-size: 1.1rem;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.i_1 {
+  margin-right: 30px;
+  padding: 20px;
+}
+#f_logo{
+  margin-top: -110px;
+}
